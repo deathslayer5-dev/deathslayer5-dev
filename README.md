@@ -12,13 +12,12 @@
 
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">I am a CS focused programmer who is dedicated to programming funni things</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathslayer5-dev&show_icons=true&hide=stars,issues,prs&show=prs_merged_percentage&hide_border=true&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathslayer5-dev&show_icons=true&hide=stars,issues,prs&hide_rank=true&show=prs_merged_percentage&hide_border=true&line_height=30&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deathslayer5-dev&layout=compact&hide_border=true&theme=gotham)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deathslayer5-dev&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deathslayer5-dev&layout=compact&hide_border=true&theme=gotham)
-
-<br>
+<br />
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">Languages</h3>
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
