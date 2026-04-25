@@ -12,12 +12,13 @@
 
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">I am a CS focused programmer who is dedicated to programming funni things</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathslayer5-dev&show_icons=true&hide=stars,issues&show=prs_merged_percentage&hide_border=true&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathslayer5-dev&show_icons=true&hide=stars,issues,prs&show=prs_merged_percentage&hide_border=true&theme=gotham)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deathslayer5-dev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deathslayer5-dev&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deathslayer5-dev&layout=compact&hide_border=true&theme=gotham)
 
+<br>
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">Languages</h3>
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -32,6 +33,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">Frameworks</h3>
 
@@ -48,6 +50,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">Software</h3>
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -60,6 +63,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 <h3 style="color:#23e889; background: #86a685; max-width: fit-content; padding:10px; border-radius:10px;">Operating Systems</h3>
 
